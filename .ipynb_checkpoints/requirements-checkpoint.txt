@@ -1,7 +1,0 @@
-librosa
-soundfile
-numpy
-scikit-learn
-pyaudio
-tensorflow
-torch
