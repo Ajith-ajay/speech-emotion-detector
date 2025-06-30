@@ -1,4 +1,4 @@
-🎙️ Speech Emotion Detector
+#🎙️ Speech Emotion Detector
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Ajith-ajay/speech-emotion-detector)
 ![GitHub stars](https://img.shields.io/github/stars/Ajith-ajay/speech-emotion-detector?style=social)
